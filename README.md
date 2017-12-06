@@ -8,4 +8,4 @@ Tensorflow 練習<br>
 04. [Save_Restore_Model](https://github.com/Robin-Huang/Tensorflow-Practice/blob/master/code/04_Save_Restore_Model.ipynb)
 05. [AutoEncoder_with_MNIST](https://github.com/Robin-Huang/Tensorflow-Practice/blob/master/code/05_AutoEncoder_with_MNIST.ipynb)
 
-學習來源 [Tensorflow-101](https://github.com/c1mone/Tensorflow-101)
+學習來源 [Tensorflow-101](https://github.com/c1mone/Tensorflow-101)、[莫煩Tensorflow](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)、[WTF Daily](http://blog.topspeedsnail.com/?s=tensorflow)
